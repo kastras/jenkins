@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('descarga') {
       steps {
-        sh '''ls - lisha
+        sh '''ls -lisha
 '''
       }
     }
